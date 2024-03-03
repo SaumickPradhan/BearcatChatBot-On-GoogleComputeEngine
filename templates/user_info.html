@@ -1,0 +1,31 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Info</title>
+</head>
+<body>
+    <h1>User Info</h1>
+    <p>First Name: {{ user_info[0] }}</p>
+    <p>Last Name: {{ user_info[1] }}</p>
+    <p>Email: {{ user_info[2] }}</p>
+
+
+
+<h2>Start by saying Hi!</h2>
+
+<iframe allow="microphone;"width="350" height="430" src="https://console.dialogflow.com/api-client/demo/embedded/63b144b2-af5f-4ddd-bfc8-1ca8e4c89090">
+</iframe>
+
+<h2><a href="{{ url_for('index') }}">End Conversation, Sign Out and Go Back to Login</a></h2>
+
+<h2>Chat Bot by Saumick Pradhan (pradhask@mail.uc.edu)</h2>
+
+</body>
+
+
+
+</html>
