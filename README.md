@@ -1,12 +1,14 @@
 # Deploy Flask App on Google Cloud Platform Compute Engine and Dialogue Flow CX
 
 ## Description
-This project deploys a Python3 Flask Chat Bot with user authentication on a Google Cloud Platform (GCP) Compute Engine Virtual Machine (VM) Instance. It provides a quick guide to deploying a VM instance using GCP's infrastructure, running flask with apache webserver and mod_wsgi and setting up the chat bot 
+This project deploys a Python3 Flask Chat Bot with user authentication on a Google Cloud Platform (GCP) Compute Engine Virtual Machine (VM) Instance. It provides a quick guide to deploying a VM instance using GCP's infrastructure, running flask with **apache webserver** and **mod_wsgi** and setting up the chat bot with **Google Dialogue Flow CX**
 
 
 
 ## Preview
 <img width="605" alt="image" src="https://github.com/SaumickPradhan/GCP-Project/assets/85262444/5f4a43f1-c7f4-45c7-bdb0-2ab9f25545ff">
+
+
 
 <img width="257" alt="image" src="https://github.com/SaumickPradhan/BearcatChatBot-On-GoogleComputeEngine/assets/85262444/f7a1d50f-ca27-403f-9ab9-f1f9d5797c35">
 
